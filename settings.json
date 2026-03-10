@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BotAnnachi",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "LeafZmp.aternos.me",
+    "port": 56056,
     "version": ""
   },
   "position": {
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a Bot",
+        "I work 24/7 for this server!",
         "I like to play Minecraft!"
       ]
     },
