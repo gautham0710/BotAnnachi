@@ -1,7 +1,7 @@
 {
   "name": "BotAnnachi",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BotAnnachi",
     "password": "",
     "type": "offline"
   },
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
